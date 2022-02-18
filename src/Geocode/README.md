@@ -1,0 +1,3 @@
+# Converting Addresses to mappable latitude/longitude
+
+You'll need to use our geocoder to ...
